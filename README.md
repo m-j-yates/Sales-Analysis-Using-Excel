@@ -9,6 +9,9 @@ This project showcases my ability to transform raw spreadsheet data into actiona
 
 ## 🛠️ Skills Demonstrated
 
+<img width="960" height="432" alt="image" src="https://github.com/user-attachments/assets/00ad9f22-52f1-4457-a27d-70f55ed6ca67" />
+
+
 - **🔍 Data Exploration & Filtering**
   - Isolated key regions, segments, and product categories
   - Applied conditional logic to surface high-value customers and top-performing products
